@@ -1,0 +1,4 @@
+ID: 20127566
+Name: Hoàng Quốc Nam
+Video: https://youtu.be/bsyhFRxCsr0
+Source: https://github.com/hoangquocnam/stock-price-prediction
